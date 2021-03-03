@@ -1,0 +1,25 @@
+body {
+  background-color: darkolivegreen;
+  font-family: georgia, serif;
+}
+h1 {
+  text-align: center;
+  font-family: papyrus, fantasy;
+  font-size: 9vw;
+  line-height: 0.8;
+}
+#pcenter {
+  text-align: center;
+  font-family: papyrus, fantasy;
+  font-size: 2.5vw;
+  line-height: 0.2;
+}
+nav {
+  text-align: center;
+  font-family: georgia, serif;
+  font-size: 2vw;
+}
+.contact {
+  text-align: center;
+  font-size: 1.5vw;
+}
