@@ -3,16 +3,16 @@ body {
   font-family: georgia, serif;
 }
 h1 {
-  background-color: DarkGrey;
+  background-image: url("https://live.staticflickr.com/3674/20435613171_45531b8809_b.jpg");
   border-style: ridge;
   border-width: thick;
   text-align: center;
-  font-family: papyrus, fantasy;
+  font-family: copperplate, fantasy;
   font-size: 9vw;
 }
 #pcenter {
   text-align: center;
-  font-family: papyrus, fantasy;
+  font-family: copperplate, fantasy;
   font-size: 2.5vw;
 }
 nav {
@@ -30,8 +30,13 @@ a:hover {
   color: red;
 }
 .contact {
+  border-style: ridge;
+  border-width: thick;
   text-align: center;
   font-size: 1.5vw;
+  background-color: DarkGrey;
+  position: sticky;
+  bottom: 0;
 }
 .img-border {
   border-style: ridge;
