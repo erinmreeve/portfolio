@@ -19,15 +19,23 @@ nav {
   text-align: center;
   font-family: georgia, serif;
   font-size: 2vw;
+  word-spacing: 30px;
+}
+a {
+  text-decoration: none;
+  text-transform: uppercase;
 }
 a:link {
-  color: black;
-}
-a:visited {
   color: blue;
 }
-a:hover {
+a:visited {
   color: red;
+}
+a:hover {
+  color: black;
+}
+#pbody {
+  text-indent: 50px;
 }
 .contact {
   border-style: ridge;
